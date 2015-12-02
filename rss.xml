@@ -4,8 +4,15 @@
         <description><![CDATA[3sixD | Social | Staffing | Consulting | Technology]]></description>
         <link>https://thegrid.ai/3sixd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 03:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 03:17:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3sixd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/171-600x338.jpg">]]></description>
+            <link>http://www.wired.com/</link>
+            <guid isPermaLink="false">2fc4265e-0930-46d0-8126-c64faec40224</guid>
+            <pubDate>Wed, 02 Dec 2015 03:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBNCVyfkG6ZuIO1onlDRxX1VjwkVXluxIcWZV9ayqWskSFd1F8">]]></description>
@@ -23,16 +30,9 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/3bf16226-dd25-473c-b579-53c43e32c747.jpg">]]></description>
-            <link>https://www.google.com/search?q=it+staffing+news&amp;rlz=1C5CHFA_enUS515US517&amp;espv=2&amp;biw=1138&amp;bih=1238&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjolu61mbzJAhWBcT4KHYqYC0MQ_AUIBygC#tbm=isch&amp;q=technology</link>
+            <link>https://thegrid.ai/3sixd/fdd92261-df7f-4659-9330-19cc7a73bac7/index.html</link>
             <guid isPermaLink="false">fdd92261-df7f-4659-9330-19cc7a73bac7</guid>
-            <pubDate>Wed, 02 Dec 2015 03:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/171-600x338.jpg">]]></description>
-            <link>https://thegrid.ai/3sixd/2fc4265e-0930-46d0-8126-c64faec40224/index.html</link>
-            <guid isPermaLink="false">2fc4265e-0930-46d0-8126-c64faec40224</guid>
-            <pubDate>Wed, 02 Dec 2015 03:07:59 GMT</pubDate>
+            <pubDate>Wed, 02 Dec 2015 03:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
