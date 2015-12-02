@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[3sixD | Social | Staffing | Consulting | Technology]]></title>
+        <description><![CDATA[3sixD | Social | Staffing | Consulting | Technology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 03:08:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/171-600x338.jpg">]]></description>
+            <link>undefined2fc4265e-0930-46d0-8126-c64faec40224/index.html</link>
+            <guid isPermaLink="false">2fc4265e-0930-46d0-8126-c64faec40224</guid>
+            <pubDate>Wed, 02 Dec 2015 03:07:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
