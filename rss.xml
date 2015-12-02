@@ -4,15 +4,8 @@
         <description><![CDATA[3sixD | Social | Staffing | Consulting | Technology]]></description>
         <link>https://thegrid.ai/3sixd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 03:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 03:17:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3sixd/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/171-600x338.jpg">]]></description>
-            <link>http://www.wired.com/</link>
-            <guid isPermaLink="false">2fc4265e-0930-46d0-8126-c64faec40224</guid>
-            <pubDate>Wed, 02 Dec 2015 03:17:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBNCVyfkG6ZuIO1onlDRxX1VjwkVXluxIcWZV9ayqWskSFd1F8">]]></description>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/3sixd/fdd92261-df7f-4659-9330-19cc7a73bac7/index.html</link>
             <guid isPermaLink="false">fdd92261-df7f-4659-9330-19cc7a73bac7</guid>
             <pubDate>Wed, 02 Dec 2015 03:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/171-600x338.jpg">]]></description>
+            <link>https://thegrid.ai/3sixd/2fc4265e-0930-46d0-8126-c64faec40224/index.html</link>
+            <guid isPermaLink="false">2fc4265e-0930-46d0-8126-c64faec40224</guid>
+            <pubDate>Wed, 02 Dec 2015 03:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
